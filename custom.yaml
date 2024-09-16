@@ -1,0 +1,10 @@
+names:
+- PE
+- PET
+- PP
+- PS
+nc: 4
+path: C:\Users\USER\Downloads\New_Sample\Train_root_file
+test: C:\Users\USER\Downloads\New_Sample\Train_root_file\PET_003
+train: C:\Users\USER\Downloads\New_Sample\Train_root_file\PET_001
+val: C:\Users\USER\Downloads\New_Sample\Train_root_file\PET_002
