@@ -6,9 +6,9 @@
 2. text to yaml 변환 : 모델 학습 시키기 전 text로 변환한 파일 yaml로 변환
 
 ## 설치 방법
-1. pip install ultralytics
+1. `pip install ultralytics`
 2. 아래 코드로 torch와 cuda 버전 맞춰 GPU로 학습 시킬 준비 필요
-pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu121
+`pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu121`
 
 ## 사용 방법
 1. Jupyter Notebook을 실행하고 `Recyle_Web.ipynb` 파일을 열어 맨 하단에 있는 grdaio 웹 배포 된 셀을 실행
